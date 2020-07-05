@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21c11bf83083f6949956d2351e717274, type: 3}
+  m_Name: Difficult level Easy
+  m_EditorClassIdentifier: 
+  _difficultName: Difficult level Easy
+  _platform: {fileID: 96965740472352641, guid: ca93cd1107c70e8418b1f18de796f81c, type: 3}
+  _gameFieldSize: 5
+  _platformSize: 3
+  _statrtOffset: 1.5
+  _platformsVisibleRange: 32
+  _diamonPlace: 1
+  _maxPlacesInStack: 5
